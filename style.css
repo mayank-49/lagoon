@@ -397,14 +397,16 @@ header img {
 .m6-content {
     height: 21.625rem;
     width: 100%;
+    /* background-color: yellow; */
     display: flex;
     align-items: center;
+    justify-content: center;
     margin-top: 1.5rem;
 }
 
 .m6-heading {
     height: 100%;
-    width: 50%;
+    width: 43%;
     /* background-color: green; */
     display: flex;
     flex-direction: column;
@@ -415,7 +417,7 @@ header img {
 
 .m6-heading-img {
     height: 7.25rem;
-    width: 36.813rem;
+    width: 88%;
 }
 
 .m6-btn {
@@ -447,7 +449,7 @@ header img {
 }
 
 .m6-img {
-    width: 48%;
+    width: 50%;
     height: 21.625rem;
 }
 
